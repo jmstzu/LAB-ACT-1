@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:project01/Page1_JMIS.dart';
 import 'package:project01/Page2_JMIS.dart';
+import 'package:project01/signup_JMIS.dart';
 
 class Homepage_JMIS extends StatelessWidget {
   @override
